@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Barnet FC Lokoja App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contains_image_file_of_league_table">Contains image file of league table</string>
+    <string name="vs">vs</string>
+    <string name="image_of_news_feed">Image of news feed</string>
+    <string name="no_live_match">No Live match</string>
+</resources>

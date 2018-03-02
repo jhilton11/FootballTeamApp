@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_news"
+        android:title="News Feed"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_news"
+        android:enabled="true"/>
+
+    <item android:id="@+id/action_league_standing"
+        android:title="League Standing"
+        app:showAsAction="always"
+        android:orderInCategory="400"
+        android:icon="@drawable/ic_action_news"
+        android:enabled="true"/>
+
+    <item android:id="@+id/action_players"
+        android:title="Players"
+        app:showAsAction="always"
+        android:orderInCategory="200"
+        android:icon="@drawable/ic_action_players"
+        android:enabled="true"/>
+
+    <item android:id="@+id/action_fixtures"
+        android:title="Fixtures"
+        app:showAsAction="always"
+        android:orderInCategory="300"
+        android:icon="@drawable/ic_action_news"
+        android:enabled="true"/>
+
+</menu>
